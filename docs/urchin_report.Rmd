@@ -1,0 +1,43 @@
+---
+title: "___"
+author: "___"
+date: "___"
+output: html_document
+---
+
+<!--% Complétez l'entête YAML -->
+
+```{r setup, include=FALSE}
+SciViews::R
+```
+
+```{r import, include = FALSE}
+# Importation des données
+
+```
+
+# Introduction
+
+<!--% Présentez les organismes de cette étude. Vous devez être synthétique entre 5 et 10 phrases. -->
+
+# But
+
+<!--% Votre but (question posée) en 1 à 2 phrases. -->
+
+<!--# Un lecteur doit être capable de comprendre l'intérêt de votre travail après avoir lu l'introduction et le but. -->
+
+# Matériel et méthodes
+
+<!--% Expliquez comment les données ont été acquises et présentez les outils informatiques que vous utilisez. Soyez précis et complet. -->
+
+# Résultats
+
+<!--% Sélectionnez vos graphiques et tableaux les plus pertinents à partir de votre carnet de notes. Ceux-ci doivent effectivement répondre à la question que vous vous posez. Mettez-les au net et peaufinez l'interprétation en revoyant également la grammaire, l'orthographe, le style et veillez à utiliser les termes adéquats dans votre description. Vous pouvez découper la section résultats en sous-sections avec des titres de niveau deux (commençant par deux dièses : ## Titre2) -->
+
+# Discussion
+
+<!--% Pour mémoire, laissez cette section vide pour l'instant. -->
+
+# Conclusion
+
+<!--% Pour mémoire, laissez cette section vide pour l'instant. -->

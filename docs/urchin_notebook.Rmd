@@ -1,0 +1,41 @@
+---
+title: "___"
+author: "___"
+date: "___"
+output: html_document
+---
+
+<!--% Complétez l'entête YAML -->
+
+```{r setup, include=FALSE}
+SciViews::R
+```
+
+```{r import, include = FALSE}
+# Importation des données
+
+```
+
+# Introduction
+
+<!--% Introduisez en quelques phrases le sujet dont traite votre carnet de notes. Vous avez la liberté de décider la thématique qui vous intéresse sur base des données mises à votre disposition. -->
+
+# Analyses
+
+<!--% Un carnet de notes contient une succession de graphiques, de tableaux ou encore d'analyses qui traite du sujet que vous avez décidé de traiter. N'hésitez à pas à tester plusieurs variables. -->
+
+## Visualisation I : nuage de points
+
+<!--% Vous devez proposer au minimum 2 graphiques et au maximum 4 graphiques afin d'explorer les données. Interprétez-les en 2-3 phrases. -->
+
+## Visualisation II : distribution
+
+<!--% Vous devez proposer au minimum 2 graphiques et au maximum 4 graphiques afin d'explorer les données. Interprétez-les en 2-3 phrases. -->
+
+## Visualisation III : graphique en barre et boite de dispersion
+
+<!--% Vous devez proposer au minimum 2 graphiques et au maximum 4 graphiques afin d'explorer les données. Interprétez-les en 2-3 phrases. -->
+
+## Transformation des données I et II
+
+<!--% Vous devez proposer au minimum 2 tableaux et au maximum 4 tableaux qui résument vos données. Interprétez-les en 2-3 phrases. -->
