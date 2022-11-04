@@ -1,6 +1,6 @@
 ---
 title: "Urchin notebook"
-author: "Vranckx Anne-Charlotte"
+author: "Vranckx Anne-Charlotte, Engels Guyliann"
 date: "04-11-2022"
 output: html_document
 ---
