@@ -1,6 +1,6 @@
 ---
 title: "Urchin notebook"
-author: "Vranckx Anne-Charlotte, Engels Guyliann"
+author: "Vranckx Anne-Charlotte, Jordan Benrezkallah, Engels Guyliann"
 date: "04-11-2022"
 output: html_document
 ---
@@ -13,7 +13,6 @@ SciViews::R
 
 ```{r import, include = FALSE}
 # Importation des données
-
 urchin <- read("urchin_bio", package = "data.io")
 ```
 
